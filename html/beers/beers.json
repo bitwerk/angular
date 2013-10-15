@@ -1,40 +1,40 @@
 [
     {
         "name" : "1A Moderne lys lager",
-        "beers": ["JÃ¤mtland Hell", "Victory Prima Pils", "Svaneke Pilsner"]
+        "beers": ["Jämtland Hell", "Victory Prima Pils", "Svaneke Pilsner"]
     },{
         "name" : "1B International lager",
-        "beers": ["Carlsberg", "Heineken", "GrÃ¸n Tuborg", "Budweiser"]
+        "beers": ["Carlsberg", "Heineken", "Grøn Tuborg", "Budweiser"]
     },{
         "name" : "1C Tjekkisk pilsner",
-        "beers": ["Pilsner Urquell", "Budweiser Budvar", "Staropramen Pilsner", "NÃ¸rrebro Ceske BÃ¶hmer"]
+        "beers": ["Pilsner Urquell", "Budweiser Budvar", "Staropramen Pilsner", "Nørrebro Ceske Böhmer"]
     },{
         "name" : "1D Tysk pilsner",
         "beers": ["Jever", "Bitburger", "Warsteiner"]
     },{
-        "name" : "1E MÃ¼cnchener helles",
-        "beers": ["Weltenburger Barock-Hell", "Hacker-Pschorr MÃ¼nchner Hell"]
+        "name" : "1E Mücnchener helles",
+        "beers": ["Weltenburger Barock-Hell", "Hacker-Pschorr Münchner Hell"]
     },{
-        "name" : "2A Moderne mÃ¸rk lager",
-        "beers": ["NÃ¸rrebro New York Lager", "Samuel Adams Boston Lager"]
+        "name" : "2A Moderne mørk lager",
+        "beers": ["Nørrebro New York Lager", "Samuel Adams Boston Lager"]
     },{
         "name" : "2B Wiener",
         "beers": ["Negra Modelo", " Fur Vulcano Classic"]
     },{
-        "name" : "2C MÃ¤rzen",
-        "beers": ["Ayinger Oktober Fest Ur-MÃ¤rzen", " Schwaben BrÃ¤u Das Echte MÃ¤rzen", " SpÃ¤ten Oktoberfest UrmÃ¤rzen"]
+        "name" : "2C Märzen",
+        "beers": ["Ayinger Oktober Fest Ur-Märzen", " Schwaben Bräu Das Echte Märzen", " Späten Oktoberfest Urmärzen"]
     },{
-        "name" : "2D MÃ¼nchener dunkel",
-        "beers": ["Ayinger Altbairisch Dunkel", " KÃ¶nig Ludwig Dunkel", " Hacker-Pschorr MÃ¼nchner Dunkel", " Paulaner Original MÃ¼nchner Dunkel", " Weltenburger Kloster Barock Dunkel"]
+        "name" : "2D Münchener dunkel",
+        "beers": ["Ayinger Altbairisch Dunkel", " König Ludwig Dunkel", " Hacker-Pschorr Münchner Dunkel", " Paulaner Original Münchner Dunkel", " Weltenburger Kloster Barock Dunkel"]
     },{
-        "name" : "2E MÃ¸rk tjekkisk lager",
+        "name" : "2E Mørk tjekkisk lager",
         "beers": ["Kozel Dark", " Bohemia Regent Dark", " 1795 Dark", " B.B. Dark"]
     },{
         "name" : "2F Schwarzbier",
-        "beers": ["KÃ¶stritzer Schwarzbier", " Kulmbacher MÃ¶nchschof Schwarzbier", " Krusovice Cerne (dark)"]
+        "beers": ["Köstritzer Schwarzbier", " Kulmbacher Mönchschof Schwarzbier", " Krusovice Cerne (dark)"]
     },{
-        "name" : "2G Klassisk rÃ¸gÃ¸l",
-        "beers": ["Aecht Schlenkerla Rauchbier MÃ¤rzen", " Spezial Rauchbier MÃ¤rzen", " Hummel-BrÃ¤u Raucherla MÃ¤rzen", " Krenkerup Rauchbier"]
+        "name" : "2G Klassisk røgøl",
+        "beers": ["Aecht Schlenkerla Rauchbier Märzen", " Spezial Rauchbier Märzen", " Hummel-Bräu Raucherla Märzen", " Krenkerup Rauchbier"]
     },{
         "name" : "3A Helles bock/maibock",
         "beers": ["Ayinger Maibock", " Einbecker Ur-Bock Hell", " Einbecker Mai-Ur-Bock", " Andechser Bergbock Hell"]
@@ -69,11 +69,11 @@
         "name" : "4F California common/steam beer",
         "beers": ["Anchor Steam Beer", " Fur Steam Beer"]
     },{
-        "name" : "4G KÃ¶lsch",
-        "beers": ["Gaffel KÃ¶lsch", " Dom KÃ¶lsch", " FrÃ¼h KÃ¶lsch", " Gilden KÃ¶lsch", " Sion KÃ¶lsch", " Reissdorf KÃ¶lsch"]
+        "name" : "4G Kölsch",
+        "beers": ["Gaffel Kölsch", " Dom Kölsch", " Früh Kölsch", " Gilden Kölsch", " Sion Kölsch", " Reissdorf Kölsch"]
     },{
         "name" : "5A Engelsk brown ale",
-        "beers": ["Newcastle Brown Ale", " Samuel Smithâ€™s Nut Brown Ale", " Ã˜rbÃ¦k Brown Ale"]
+        "beers": ["Newcastle Brown Ale", " Samuel Smithâ€™s Nut Brown Ale", " Ørbæk Brown Ale"]
     },{
         "name" : "5B Amerikansk brown ale",
         "beers": ["Brooklyn Brown Ale", " Stensbogaard American Brown Ale", " Mikkeller Jackie Brown"]
@@ -82,25 +82,25 @@
         "beers": ["Brains Dark Mild", " St. Peters Mild", " Cains Dark Mild", " JW Lees Brewers Dark"]
     },{
         "name" : "5D Altbier",
-        "beers": ["Diebels Alt", " Uerige Alt", " SchlÃ¶sser Alt"]
+        "beers": ["Diebels Alt", " Uerige Alt", " Schlösser Alt"]
     },{
         "name" : "5E Skotsk ale",
         "beers": ["Belhaven Scottish Ale", " Belhaven St. Andrews Ale", " Orkney Red McGregor", " Caledonian 80/-"]
     },{
-        "name" : "5F Skotsk stÃ¦rk ale",
+        "name" : "5F Skotsk stærk ale",
         "beers": ["Traquair House Ale", " Belhaven Wee Heavy"]
     },{
         "name" : "5G Old ale",
         "beers": ["TheakstonÂ´s Old Peculiar", " Fullers 1845", " JW Lees Moonraker", " Youngs Winter Warmer"]
     },{
         "name" : "6A Engelsk IPA",
-        "beers": ["NÃ¸rrebro Bombay Pale Ale", " Brooklyn East India Pale Ale", " Fullers Bengal Lancer"]
+        "beers": ["Nørrebro Bombay Pale Ale", " Brooklyn East India Pale Ale", " Fullers Bengal Lancer"]
     },{
         "name" : "6B Amerikansk IPA",
-        "beers": ["Green Flash West Coast IPA", " Sierra Nevada Celebration Ale", " Amager IPA", " Mikeller Green Gold", " Great Divide Titan IPA", " FanÃ¸ Vestkyst"]
+        "beers": ["Green Flash West Coast IPA", " Sierra Nevada Celebration Ale", " Amager IPA", " Mikeller Green Gold", " Great Divide Titan IPA", " Fanø Vestkyst"]
     },{
         "name" : "6C Imperial IPA",
-        "beers": ["Great Divide Hercules Double IPA", " Stone Ruination IPA", " Dogfish Head 90-minute IPA", " Rogue I2PA", " NÃ¸rrebro North Bridge Extreme"]
+        "beers": ["Great Divide Hercules Double IPA", " Stone Ruination IPA", " Dogfish Head 90-minute IPA", " Rogue I2PA", " Nørrebro North Bridge Extreme"]
     },{
         "name" : "7A Weizen (sydtysk)",
         "beers": ["Weihenstephaner Hefe", " Schneider Weisse Tap 1 Mein Blondes", " Maiselâ€™s Weisse Original", " Erdinger Hefe Weisse"]
@@ -124,10 +124,10 @@
         "beers": ["Samuel Smithâ€™s Taddy Porter", " Fullers London Porter", " Anchor Porter"]
     },{
         "name" : "8E Moderne porter og stout",
-        "beers": ["Amager Sundby Stout", " Sierra Nevada Porter", " Sierra Nevada Stout", " JÃ¤mtlands Porter"]
+        "beers": ["Amager Sundby Stout", " Sierra Nevada Porter", " Sierra Nevada Stout", " Jämtlands Porter"]
     },{
         "name" : "9A Engelsk barley wine",
-        "beers": ["Thomas Hardyâ€™s Ale", " NÃ¸rrebro Little Korkny Ale", " J. W. Lees Harvest Ale", " Fullers Vintage Ale", " Herslev MjÃ¸lner"]
+        "beers": ["Thomas Hardyâ€™s Ale", " Nørrebro Little Korkny Ale", " J. W. Lees Harvest Ale", " Fullers Vintage Ale", " Herslev Mjølner"]
     },{
         "name" : "9B Amerikansk barley wine",
         "beers": ["Anchor Old Foghorn", " Sierra Nevada Bigfoot", " Stone Old Guardian"]
@@ -144,7 +144,7 @@
         "name" : "10A Belgisk blond",
         "beers": ["La Trappe Blond", " Troubadour Blond", " Leffe Blond"]
     },{
-        "name" : "10B Lys stÃ¦rk belgisk ale/tripel",
+        "name" : "10B Lys stærk belgisk ale/tripel",
         "beers": ["Westmalle Tripel", " Duvel", " Hvid Chimay", " St. Bernardus Tripel", " De Dolle Arabier", " Tripel Karmeliet"]
     },{
         "name" : "10C Biere de garde",
@@ -154,9 +154,9 @@
         "beers": ["Saison Dupont", " Glazen-Toren Saison Dâ€™Erpe-Mere"]
     },{
         "name" : "11A Belgisk dubbel/bruin",
-        "beers": ["Westmalle Dubbel", " Leffe Brune", " RÃ¸d Chimay", " St. Bernardus Prior 8"]
+        "beers": ["Westmalle Dubbel", " Leffe Brune", " Rød Chimay", " St. Bernardus Prior 8"]
     },{
-        "name" : "11B MÃ¸rk stÃ¦rk belgisk ale",
+        "name" : "11B Mørk stærk belgisk ale",
         "beers": ["Rochefort 10", " La Trappe Quadrupel", " BlÃ¥ Chimay", " St. Bernardus Abt 12"]
     },{
         "name" : "12A Gueuze lambic",
@@ -165,7 +165,7 @@
         "name" : "12B Belgisk frugt lambic",
         "beers": ["3 Fonteinen Kriek", " Cantillion Kriek", " Vigneronne og Rose de Gambrinus", " Girardin Kriek og Framboise"]
     },{
-        "name" : "12C Flamsk rÃ¸d",
+        "name" : "12C Flamsk rød",
         "beers": ["Rodenbach Grand Cru", " Duchesse de Bourgogne", " Rodenbach Classic"]
     },{
         "name" : "12D Flamsk brun/oud bruin",
@@ -174,19 +174,19 @@
         "name" : "12E Berliner weisse",
         "beers": ["Kindl Berliner Weisse", " Bayrischer Bahnhof Berliner Weisse"]
     },{
-        "name" : "13A Frugt-/grÃ¸ntsagsÃ¸l",
-        "beers": ["Wittekerke RosÃ© (Wit med hindbÃ¦r)", " Brasserie de Silly Pink Killer (Belgisk blond med pink grape)", " Ã˜rbÃ¦k Blueberry Hill Ale (Engelsk pale ale med blÃ¥bÃ¦r)", " Herslev Asparges (Weissbier med asparges)"]
+        "name" : "13A Frugt-/grøntsagsøl",
+        "beers": ["Wittekerke RosÃ© (Wit med hindbær)", " Brasserie de Silly Pink Killer (Belgisk blond med pink grape)", " Ørbæk Blueberry Hill Ale (Engelsk pale ale med blÃ¥bær)", " Herslev Asparges (Weissbier med asparges)"]
     },{
-        "name" : "13B KrydderÃ¸l",
-        "beers": ["Herslev Stjernebryg (Old ale med stjerneanis og andre julekrydderier)", " Grauballe EnebÃ¦r Stout (Moderne stout med enebÃ¦r)", " Skands Esrum Kloster (Old ale med blandede krydderier)", " Thisted Porse Guld (Helles bock med porse)"]
+        "name" : "13B Krydderøl",
+        "beers": ["Herslev Stjernebryg (Old ale med stjerneanis og andre julekrydderier)", " Grauballe Enebær Stout (Moderne stout med enebær)", " Skands Esrum Kloster (Old ale med blandede krydderier)", " Thisted Porse Guld (Helles bock med porse)"]
     },{
-        "name" : "13C TrÃ¦lagret Ã¸l ",
-        "beers": ["Great Divide Oak Aged Yeti (Imperial stout pÃ¥ egespÃ¥ner)", " Goose Island Bourbon County Stout (Imperial stout pÃ¥ bourbon fade)", " Harviestoun Ola Dubh (Imperial stout pÃ¥ rÃ¸get whisky fad)", " Herslev MjÃ¸lner Fadlagret (Engelsk barley wine pÃ¥ egetrÃ¦)"]
+        "name" : "13C Trælagret øl ",
+        "beers": ["Great Divide Oak Aged Yeti (Imperial stout pÃ¥ egespÃ¥ner)", " Goose Island Bourbon County Stout (Imperial stout pÃ¥ bourbon fade)", " Harviestoun Ola Dubh (Imperial stout pÃ¥ røget whisky fad)", " Herslev Mjølner Fadlagret (Engelsk barley wine pÃ¥ egetræ)"]
     },{
-        "name" : "13D Andre rÃ¸gÃ¸l",
-        "beers": ["Thisted Limfjordsporter (Baltisk Porter)", " Schlenkerla Weizen Rauchbier (Weissbier) og Ur-Bock Rauchbier (Doppelbock)", " DjÃ¦vlebryg Son of Nekron (Porter)", " Eggenberg MacQueen Nessie (Skotsk ale)"]
+        "name" : "13D Andre røgøl",
+        "beers": ["Thisted Limfjordsporter (Baltisk Porter)", " Schlenkerla Weizen Rauchbier (Weissbier) og Ur-Bock Rauchbier (Doppelbock)", " Djævlebryg Son of Nekron (Porter)", " Eggenberg MacQueen Nessie (Skotsk ale)"]
     },{
-        "name" : "13E Andre tilsÃ¦tninger",
+        "name" : "13E Andre tilsætninger",
         "beers": ["Mikkeller Beer Geek Brunch (Imperial stout med kaffe)", " Fraoch Heather Ale (Engelsk pale ale med lyng)", " Youngs Double Chocolate Stout (Sweet stout med chokolade)", " Svaneke Choko Stout (Sweet stout med chokolade og vanilje)"]
     }
 ]
