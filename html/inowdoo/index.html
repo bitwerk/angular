@@ -1,0 +1,30 @@
+
+<!doctype html>
+<html ng-app>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script-->
+    <script src="angular.min.js"></script>
+    <link href="bootstrap.css" rel="stylesheet">
+    <script src="inowdoo.js"></script>
+    <link href="inowdoo.css" rel="stylesheet">
+</head>
+<body>
+<div class="container" ng-controller="TimesheetCtrl">
+    <form class="form-signin" ng-submit="addTask()">
+        <h4>&nbsp;{{date | date:'dd.MM.yyyy'}}</h4>
+        <input class="form-control" type="text" ng-model="taskText" size="30" placeholder=" I now do ..." autofocus>
+        <table class="table">
+            <tbody ng-repeat="task in tasks | orderBy:'start'">
+            <tr>
+                <td>{{task.text}}</td>
+                <td align="center">{{task.start | date:'HH:mm'}}</td>
+                <td align="center" class="task-current-{{taskCurr($index)}}">{{task.stop | date:'HH:mm'}}</td>
+                <td align="center" class="task-current-{{taskCurr($index)}}">{{task.duration}}</td>
+            </tr>
+            </tbody>
+        </table>
+    </form>
+</div>
+</body>
+</html>
