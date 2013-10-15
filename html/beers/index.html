@@ -1,0 +1,33 @@
+
+<!doctype html>
+<html>
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
+    <script language="JavaScript">
+        angular.module('BeerModule', []).controller('BeersCtrl', function ($scope, $http) {
+            $http.get('beers.json').success(function(data) {
+                $scope.beerStyles = data;
+            });
+            $scope.expandColl = function (item) {
+                item.IsVisible = !item.IsVisible;
+            };
+        });
+    </script>
+</head>
+<body>
+<div data-ng-app="BeerModule">
+    <ul data-ng-controller="BeersCtrl">
+        <li data-ng-repeat="beerStyle in beerStyles">
+            <div>
+                <i data-ng-click="expandColl(beerStyle)" style="cursor: pointer;">{{beerStyle.name}}</i>
+                <div data-ng-show="beerStyle.IsVisible">
+                    <ul>
+                        <li data-ng-repeat="beer in beerStyle.beers">{{beer}}</li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
+</body>
+</html>
